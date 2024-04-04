@@ -1,0 +1,94 @@
+********************************************************************************
+Probe Values Report, written on Wed Apr  3 20:57:33 2024
+
+Source
+-------
+
+   ODB: C:/Users/thoma/Documents/Abaqus/Job-1.odb
+   Step: Step-1
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, Magnitude
+
+Loc 1 : Integration point values
+
+Probe values reported at integration points
+
+  Part Instance  Element ID        Type  Attached nodes
+--------------------------------------------------------------------------------
+    ASSEMBLY           7     SPRINGA           2           4
+
+
+********************************************************************************
+Probe Values Report, written on Wed Apr  3 20:58:36 2024
+
+Source
+-------
+
+   ODB: C:/Users/thoma/Documents/Abaqus/Job-1.odb
+   Step: Step-1
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, Magnitude
+
+Probe values reported at nodes
+
+  Part Instance     Node ID            Orig. Coords                     Def. Coords          
+                                 X          Y          Z          X          Y          Z    
+-------------------------------------------------------------------------------------------
+    ASSEMBLY           2        10.        0.0        0.0        10.        0.0        0.0
+
+
+  Part Instance     Node ID  Attached elements  U, Magnitude
+-------------------------------------------------------------
+    ASSEMBLY           2          1    55.E-03
+    ASSEMBLY           2          2    55.E-03
+    ASSEMBLY           2          7    55.E-03
+
+
+********************************************************************************
+Probe Values Report, written on Wed Apr  3 20:59:38 2024
+
+Source
+-------
+
+   ODB: C:/Users/thoma/Documents/Abaqus/Job-1.odb
+   Step: Step-1
+   Frame: Increment      1: Step Time =    1.000
+   Variable: U, Magnitude
+
+Probe values reported at nodes
+
+  Part Instance     Node ID                  Orig. Coords                                 Def. Coords                
+                                   X              Y              Z              X              Y              Z      
+-------------------------------------------------------------------------------------------------------------------
+    ASSEMBLY           1             0.             0.             0.        94.E-36             0.             0.
+    ASSEMBLY           2            10.             0.             0.         10.055             0.             0.
+    ASSEMBLY           3            20.             0.             0.         20.294             0.             0.
+    ASSEMBLY           4            30.             0.             0.         30.442             0.             0.
+    ASSEMBLY           5            40.             0.             0.         40.587             0.             0.
+    ASSEMBLY           6            50.             0.             0.         51.016             0.             0.
+
+
+  Part Instance     Node ID  Attached elements   U, Magnitude
+--------------------------------------------------------------
+    ASSEMBLY           1              1             0.
+    ASSEMBLY           1              6             0.
+    ASSEMBLY           1              9             0.
+    ASSEMBLY           2              1     55.326E-03
+    ASSEMBLY           2              2     55.326E-03
+    ASSEMBLY           2              7     55.326E-03
+    ASSEMBLY           3              2     294.23E-03
+    ASSEMBLY           3              3     294.23E-03
+    ASSEMBLY           3              6     294.23E-03
+    ASSEMBLY           3              8     294.23E-03
+    ASSEMBLY           4              3     441.83E-03
+    ASSEMBLY           4              4     441.83E-03
+    ASSEMBLY           4              7     441.83E-03
+    ASSEMBLY           4             10     441.83E-03
+    ASSEMBLY           5              4     587.42E-03
+    ASSEMBLY           5              5     587.42E-03
+    ASSEMBLY           5              8     587.42E-03
+    ASSEMBLY           5              9     587.42E-03
+    ASSEMBLY           6              5         1.0162
+    ASSEMBLY           6             10         1.0162
+
+
