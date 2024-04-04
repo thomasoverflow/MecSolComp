@@ -15,7 +15,6 @@ e_total = rows(k_n);      % número total de elementos
 
 % matriz de conectividade (graus de liberdade u_n)
 dof_e = [1 2;   % elemento 1 conecta dof1 (u_1) e dof2 (u_2)
-         2 3;   % elemento 2 conecta dof2 (u_2) e dof3 (u_3)
          2 3;
          3 4;
          4 5;
